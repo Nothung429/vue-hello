@@ -16,3 +16,8 @@ h1 {
     font-size: 46px;
     background-color: darkgoldenrod;
 }
+
+#image img {
+    width: 600px;
+    height: 800px;
+}
